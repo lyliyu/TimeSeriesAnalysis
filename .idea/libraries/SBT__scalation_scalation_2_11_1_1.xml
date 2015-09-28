@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: scalation:scalation_2.11:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/scalation/scalation_2.11/1.1/jars/scalation_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
